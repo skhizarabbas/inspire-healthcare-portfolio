@@ -1,0 +1,41 @@
+{
+  "name": "inspire-healthcare-portfolio",
+  "version": "1.0.0",
+  "description": "Modern UI Website Portfolio for Inspire Healthcare PvT Ltd - Professional healthcare organization website with responsive design",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=index.html",
+    "dev": "live-server",
+    "build": "echo 'Build configuration ready'",
+    "test": "echo 'Testing framework can be added here'",
+    "lint": "eslint js/ --fix"
+  },
+  "keywords": [
+    "healthcare",
+    "portfolio",
+    "modern-ui",
+    "responsive",
+    "medical",
+    "website",
+    "hospital",
+    "doctor",
+    "clinic"
+  ],
+  "author": "Inspire Healthcare PvT Ltd",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skhizarabbas/inspire-healthcare-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skhizarabbas/inspire-healthcare-portfolio/issues"
+  },
+  "homepage": "https://github.com/skhizarabbas/inspire-healthcare-portfolio#readme",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
